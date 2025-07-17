@@ -155,20 +155,20 @@
 // let number = +prompt('Число', '');
 // alert(mySubstr(text, number))
 
-'use strict';
+// 'use strict';
 
-let text = prompt('Ввод', '');
-let number = prompt('Ввод', '');
+// let text = prompt('Ввод', '');
+// let number = prompt('Ввод', '');
 
-let pow = (x, n) => {
-    if (n >= 1){
-   let result = x ** n
-   return result
-   }
-   return "Ошибка"
-}
+// let pow = (x, n) => {
+//     if (n >= 1){
+//    let result = x ** n
+//    return result
+//    }
+//    return "Ошибка"
+// }
 
-alert(pow(text, number))
+// alert(pow(text, number))
 
 
 // let ask = (question, yes, no) =>{
